@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+@font-face {
+    font-family: "oswald";
+    src: url("fonts/oswald/Oswald-VariableFont_wght.ttf");
+}
+
+h1, h2, h3 {
+    font-family: "oswald";
+}
+
+p, li {
+    font-family: 'Roboto', sans-serif;
+}
